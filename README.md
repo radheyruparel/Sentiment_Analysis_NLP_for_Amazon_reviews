@@ -20,6 +20,4 @@ In order to get a deeper understanding of people’s opinions about video games,
    * Evaluating your model and creating descriptive statistics in Python with scikit-learn library before reporting your results to your boss.
    * Visualizing your findings about preferable and non-preferable words related to video games using Altair.
 
-## Dataset
 
-The Amazon review dataset was downloaded from [here](https://nijianmo.github.io/amazon/index.html).
